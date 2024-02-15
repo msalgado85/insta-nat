@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+
+   background-color: black;
+  }
+
+  .insta-header{
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  .pfp{
+    display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  border-radius: 50%;
+  }
+
+  
+  .flex-container{
+    display: flex;
+    border-radius: 50%;
+  }
+
+
+.pfp{
+  border-radius: 50%;
+}
+
+.red{
+  background-color: red;
+}
+
+.insta-header{
+  color: white;
+}
+.footer-icons{
+  color: white;
+}
+h3{
+  color: aliceblue;
+  font-size: 100px;
+}
+.insta-header{
+  border-radius: 50%;
+}
